@@ -1,12 +1,19 @@
-# Lab1 BSUIR mobile development
-• Koin<br />
-• Room<br />
-• Navigation<br />
-• Coroutines
+# Feed the cat
+
+
+## General info
+This project acts as a laboratory work at the university. It consists in creating a custom view for the guitar hero game, as well as feeding the cat and displaying a widget on the screen about this result. 
+
+## Technologies
+Project is created with:
+* Kotlin
+* Coroutines
+* Koin
+* Room
+* Jetpack navigation
+* Gms play-services
 
 ## Screenshots
- 
-  
 <img src="https://user-images.githubusercontent.com/57315212/151542174-8c204445-fab8-405a-82be-0c7a732d1fba.jpg" height="400"/>
 
 Splash Screen. Program starts with that screen
